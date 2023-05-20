@@ -14,4 +14,18 @@ Hey There! This is a learning repository created for practcing streamlit module 
   
      This app can be used to run different files such as csv, excel, media files (audio and video) in browser.
      
-    
+ 3.0 Data Visualization
+     
+     This shows how we can utilise streamlit for data visualization practices.
+     
+ 3.1 Plots.py 
+ 
+  Link - https://srivastavas08-streamlit-plots-fsbv9w.streamlit.app/
+  
+    Contains Graphs created with Streamlit , Seaborn and Matplotlib
+ 
+ 3.2 Plot.py
+ 
+  Link - https://srivastavas08-streamlit-plot-ztg9d2.streamlit.app/
+  
+    Contains different charts created with Altair and Streamlit
