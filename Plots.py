@@ -33,7 +33,7 @@ st.header('2.0 Data Visualization with Matplotlib and Seaborn')
 
 
 st.subheader('2.1 Loading the DataFrame')
-df = pd.read_csv('https://github.com/srivastavas08/Streamlit/blob/main/Ref/Iris.csv')
+df = pd.read_csv('Ref/Iris.csv')
 st.dataframe(df)
 
 st.subheader('2.2 Distribution Plot - Matplotlib')
